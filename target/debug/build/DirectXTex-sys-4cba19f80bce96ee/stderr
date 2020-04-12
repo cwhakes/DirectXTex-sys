@@ -1,0 +1,1 @@
+DirectXTex\DirectXTex\DirectXTex.h:12:9: warning: #pragma once in main file [-Wpragma-once-outside-header], err: false
